@@ -71,20 +71,6 @@
 
 <div align="center">
 
-## 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb" />
-
-<br><br>
-
-Advanced React Patterns • Next.js App Router • REST APIs • Authentication • Software Architecture
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=Ledo-poro&show_icons=true&theme=tokyonight&hide_border=true"/>
