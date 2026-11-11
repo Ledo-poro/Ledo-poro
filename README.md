@@ -18,13 +18,9 @@
 
 🔭 Working toward becoming a **Software Engineer**
 
-🌱 Currently learning **Next.js & Advanced Full Stack Development**
-
 👯 Looking to collaborate on **Open Source & Team Projects**
 
 🤝 Always interested in learning from other developers
-
-💬 Ask me about **HTML, CSS, JavaScript, React and Next.js**
 
 ⚡ Founder of **Codimp**
 
